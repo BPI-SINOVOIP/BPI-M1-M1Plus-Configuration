@@ -2,6 +2,7 @@
 ##How to use 
 To use fexc in sunxi-toos （https://github.com/BPI-SINOVOIP/sunxi-tools） to transform script.fex to script.bin. Then
 replace the script.bin in the boot disk of your device.
+
 fexc:
 	`.fex` file (de)compiler
 
