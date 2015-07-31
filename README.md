@@ -11,11 +11,13 @@ fexc:
 	infmt:  fex, bin  (default:fex)
 	outfmt: fex, bin  (default:bin)
 
-bin2fex:
+bin2fex
+
 	compatibility shortcut to call `fexc` to decompile an script.bin
 	blob back into `.fex` format used by allwinner's SDK to configure
 	the boards.
 
-fex2bin:
+fex2bin
+
 	compatiblity shortcut to call `fexc` to compile a `.fex` file into
 	the binary form used by the kernel.
